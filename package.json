@@ -1,0 +1,24 @@
+{
+  "name": "dependCheck",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alex-717/dependCheck.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alex-717/dependCheck/issues"
+  },
+  "homepage": "https://github.com/Alex-717/dependCheck#readme",
+  "dependencies": {
+    "lodash-es": "^4.17.21"
+  }
+}
